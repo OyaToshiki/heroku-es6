@@ -1,0 +1,5 @@
+{
+  "name": "heroku-es6",
+  "description": "ECMAScript6で記述したアプリをHerokuで動かすためのサンプルです。",
+  "repository": "https://github.com/flect-miyake/heroku-es6"
+}
